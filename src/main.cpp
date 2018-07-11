@@ -125,7 +125,7 @@ static bool doIdSelect()
 	if(!f)
 	{
 		//current vwii hbc title id
-		titleToBoot = 0x4c554c5a;
+		titleToBoot = 0x4F484243;
 		goto func_exit;
 	}
 	fseek(f,0,SEEK_END);
