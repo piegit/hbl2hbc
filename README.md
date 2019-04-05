@@ -3,7 +3,7 @@ Boot from the Wii U homebrew launcher into the vWii homebrew channel, skipping c
 
 # Usage
 1. Grab the .zip from the downloads section, put it into your sd folder.
-2. If you don't want to be able to launch other Wii titles than the Open Homebrew Channel (OHBC) you can skip to step "4."
+2. If you don't want to be able to launch other Wii titles than the Open Homebrew Channel (OHBC) you can remove the file sd:/wiiu/apps/hbl2hbc/hbl2hbc.txt from the sd card of your Wii U and skip to step 4.
 3. Edit sd:/wiiu/apps/hbl2hbc/hbl2hbc.txt, in the form of one or multiple lines in the format of "TitleID=TileName", to change the target channel, or create a menu of target channels.
 4. Every time you want to get into the vWii open homebrew channel just start it in the Wii U homebrew launcher. 
 
