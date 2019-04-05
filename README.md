@@ -2,7 +2,7 @@
 Boot from the Wii U homebrew launcher into the vWii homebrew channel, skipping controller and screen option prompts.
 
 # Usage
-1. Grab the `.zip` you want from the releases section as described there, put it into your sd card folder.
+1. Grab the `.zip` you want from the [releases section](https://github.com/kyoforkshomebrews/hbl2hbc/releases/latest) as described there, put it into your sd card folder.
 2. If you don't want to be able to launch other Wii titles than the Open Homebrew Channel (OHBC) or launch any other titles than LULZ, OHBC and UNEO you can skip to step 4.
 3. Edit `sd:/wiiu/apps/hbl2hbc/hbl2hbc.txt`, in the form of one or multiple lines in the format of "TitleID=TileName", to change the target channel, or create a menu of target channels.
 4. Every time you want to get into the vWii open homebrew channel just start it in the Wii U homebrew launcher. 
