@@ -10,5 +10,7 @@ Boot from the wiiu homebrew launcher into the vwii homebrew channel, skipping co
 # Credits
 
 [Fix49](https://github.com/FIX94): Creating the initial homebrew app.
+
 [monta990](https://github.com/monta990): Changing the default Wii Channel to Open Homebrew Channel
+
 [kyoforkshomebrews (myself)](https://github.com/kyoforkshomebrews): Changing the location of hbl2hbc.txt, changing version string, making easier to read readme, etc.. 
