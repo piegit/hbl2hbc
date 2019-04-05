@@ -258,8 +258,9 @@ static bool doIdSelect()
 		{
 			OSScreenClearBuffer(0);
 			OSScreenPutFont(0, 0, verChar);
+			OSScreenPutFont(1, 1, "HOME: return to Homebrew launcher\n DPAD-UP/DPAD-DOWN: navigate\n A: launch selected entry.");
 			// Starting position.
-			int gamelist_y = 1;
+			int gamelist_y = 5;
 			int i;
 			for (i = 0; i < ListMax; ++i, gamelist_y++)
 			{
