@@ -1,0 +1,3 @@
+OHBC=Open Homebrew Channel
+UNEO=USB Loader GX
+LULZ=Homebrew Channel
