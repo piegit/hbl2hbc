@@ -121,7 +121,7 @@ static bool doIdSelect()
 	int flen;
 	char *cBuf;
 
-	FILE *f = fopen("sd:/hbl2hbc.txt","rb");
+	FILE *f = fopen("sd:/wiiu/apps/hbl2hbc/hbl2hbc.txt","rb");
 	if(!f)
 	{
 		//current vwii hbc title id
