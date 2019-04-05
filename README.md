@@ -12,7 +12,10 @@ If you only want LOLZ (Homebrew Channel) download the release with the sample `.
 Also, it seems only Homebrew titles are working. I'm not sure if there's a way to launch other Wii titles,
 I'm just a noob who did simple edits.
 
+This works with the [Wii U Menu forwarder by brienj](https://gbatemp.net/threads/release-wiiu2hbc-a-hbl2hbc-forwarder-channel.455991/), but of course you can't press HOME to return to the hbl.
+
 If you have trouble reading this Readme, please open an issue explaining what you didn't understand!
+
 # Credits
 
 [Fix49](https://github.com/FIX94): Creating the initial homebrew app
