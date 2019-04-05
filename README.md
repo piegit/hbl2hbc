@@ -15,8 +15,8 @@ I'm just a noob who did simple edits.
 If you have trouble reading this Readme, please open an issue explaining what you didn't understand!
 # Credits
 
-[Fix49](https://github.com/FIX94): Creating the initial homebrew app.
+[Fix49](https://github.com/FIX94): Creating the initial homebrew app
 
 [monta990](https://github.com/monta990): Changing the default Wii Channel to Open Homebrew Channel
 
-[kyoforkshomebrews (myself)](https://github.com/kyoforkshomebrews): Changing the location of hbl2hbc.txt, changing version string, making easier to read readme, etc.. 
+[kyoforkshomebrews (myself)](https://github.com/kyoforkshomebrews): Changing the location of hbl2hbc.txt, changing version string, making easier to read readme, and other small additions
