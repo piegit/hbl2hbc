@@ -26,7 +26,7 @@ struct selTitle {
 	std::string name;
 };
 
-static const char *verChar = "HBL2TID v1.0 by FIX94, kyoforkshomebrews, piegit";
+static const char *verChar = "HBL2TID v1.0 by FIX94, monta990, kyoforkshomebrews, piegit";
 
 static unsigned int getButtonsDown();
 static bool doIdSelect();
