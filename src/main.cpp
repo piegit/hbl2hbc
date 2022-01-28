@@ -26,7 +26,7 @@ struct selTitle {
 	std::string name;
 };
 
-static const char *verChar = "HBL2HBC v1.1 by FIX94, mod 0.1 by kyoforkshomebrews";
+static const char *verChar = "HBL2TID v1.0 by FIX94, kyoforkshomebrews, piegit";
 
 static unsigned int getButtonsDown();
 static bool doIdSelect();
@@ -121,7 +121,7 @@ static bool doIdSelect()
 	int flen;
 	char *cBuf;
 
-	FILE *f = fopen("sd:/wiiu/forwarders/hbl2hbc.txt","rb");
+	FILE *f = fopen("sd:/wiiu/forwarders/hbl2tid.txt","rb");
 	if(!f)
 	{
 		//current vwii hbc title id: OHBC
