@@ -121,10 +121,10 @@ static bool doIdSelect()
 	int flen;
 	char *cBuf;
 
-	FILE *f = fopen("sd:/wiiu/apps/hbl2hbc/hbl2hbc.txt","rb");
+	FILE *f = fopen("sd:/wiiu/forwarders/hbl2hbc.txt","rb");
 	if(!f)
 	{
-		//current vwii hbc title id
+		//current vwii hbc title id: OHBC
 		titleToBoot = 0x4F484243;
 		goto func_exit;
 	}
